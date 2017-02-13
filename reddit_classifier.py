@@ -16,7 +16,7 @@ from shutil import copyfileobj
 from sys import argv, exit
 from time import sleep
 
-USER_AGENT = 'Dog/Cat Classification 1.0 by /u/Tyrion314'
+USER_AGENT = 'Dog/Cat Classification 1.0 by [handle]'
 SUBREDDIT = 'dogpictures+catpictures'
 
 # Size to process to.
